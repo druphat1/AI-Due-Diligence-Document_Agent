@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Env / secrets
+.env
+
+# Data artifacts
+data/processed/*
+!data/processed/.gitkeep
+data/raw/*
+!data/raw/.gitkeep
+data/test/*
+!data/test/.gitkeep
+
+# Chroma
+chroma_db/
+
+# Tooling
+.streamlit/
+.DS_Store
+Thumbs.db

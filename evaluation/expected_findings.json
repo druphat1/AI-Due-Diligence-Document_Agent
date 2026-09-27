@@ -1,0 +1,10 @@
+{
+  "change_of_control": [["customer_contract_01", 2], ["loan_agreement", 3]],
+  "assignment_restrictions": [["customer_contract_02", 2]],
+  "termination_rights": [["customer_contract_01", 4]],
+  "exclusivity": [["customer_contract_01", 3]],
+  "ip_ownership": [["ip_agreement", 2], ["employment_agreement", 2]],
+  "material_liabilities": [["customer_contract_02", 3]],
+  "debt_guarantees": [["loan_agreement", 2]],
+  "litigation_regulatory": [["company_overview", 2]]
+}
